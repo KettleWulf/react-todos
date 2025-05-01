@@ -1,0 +1,22 @@
+.container {
+	padding: 3rem
+}
+
+.listContainer,
+.topContainer {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.alert-success {
+	width: 100%;
+}
+
+.completedTodos {
+	color:rgb(124, 194, 124)
+}
+
+.uncompletedTodos {
+	color:rgb(211, 117, 111)
+}
